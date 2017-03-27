@@ -9,8 +9,8 @@ from your data. This guide will show you how to build a data-driven dasboard usi
 the data you've set up in the [adding data tutorial](/adding-data.html).
 
 The first thing to do is to go to the homepage of your Bothan instance, click the
-'login' link, and login to the system using the username and password you provided
-when [installing your Bothan](/setting-up.html)
+'login' link, and log into the system using the username and password you provided
+when [installing your Bothan](/setting-up.html).
 
 ![](/images/building-a-dashboard/step-1.gif){: .screenshot.no-float}
 
@@ -20,25 +20,25 @@ design and create your own dashboard:
 ![](/images/building-a-dashboard/step-2.png){: .screenshot.no-float}
 
 The first thing you’ll need to provide is the name of your dashboard. This
-will be shown on the top of the page when your dashboard has been created
+will be shown at the top of the page when your dashboard has been created.
 
 ![](/images/building-a-dashboard/step-3.png){: .screenshot.no-float.full-width}
 
 In the next field, Bothan will use your name to give you a dashboard identifier,
 or ‘slug’, which will be used in the URL of the dashboard. You can change this
-if you want, but the slug must only contain lowercase letters, numbers and dashes
+if you want, but the slug must only contain lowercase letters, numbers and dashes.
 
 ![](/images/building-a-dashboard/step-4.png){: .screenshot.no-float.full-width}
 
 Next, you’ll be able to build your layout, specifying the number of rows and
 columns. As we only have two metrics (and to keep things simple), we’ll choose
-one row and two columns
+one row and two columns.
 
 ![](/images/building-a-dashboard/step-5.png){: .screenshot.no-float.full-width}
 
 As you change the number of rows and columns, the form fields below will adjust
 to reflect your layout. As we’ve chosen one row and two columns, you should now
-see two sets of form fields, side by side
+see two sets of form fields, side by side.
 
 ![](/images/building-a-dashboard/step-6.png){: .screenshot.no-float.full-width}
 
@@ -54,7 +54,7 @@ view to a number. Again, this will update the preview.
 ![](/images/building-a-dashboard/step-7.gif){: .screenshot.no-float}
 
 There is already a title displayed in the preview, but if you want to change this,
-you can update this in the ‘title’ field:
+you can update it in the ‘title’ field:
 
 ![](/images/building-a-dashboard/step-8.gif){: .screenshot.no-float}
 
