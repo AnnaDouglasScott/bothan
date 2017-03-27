@@ -5,7 +5,7 @@ hide_in_nav: true
 ---
 
 Bothan has a fully functional [API](/api.html) for developers to add data to their
-own Bothan instance, but if you're not a developer, it's still easy to add data
+own Bothan instance. But if you're not a developer, it's still easy to add data
 to your Bothan without writing a single line of code!
 
 This tutorial will show you how to use the Bothan recipe in [Zapier](https://zapier.com/) to add data
@@ -48,16 +48,16 @@ click ‘Save and continue’ to move on to the next step.
 Next, we want to choose the spreadsheet we are going to get our data from.
 If you click the Spreadsheet drop down menu, you should see the spreadsheet
 you copied at the top of the list (Widget data). If not, you should be able
-to search for it and select it
+to search for it and select it.
 
 ![](/images/adding-data/step-5.png){: .screenshot.no-float}
 
 Next, select the worksheet from the second drop down. This is easy,
-as there should only be one ‘Sheet 1’. Click ‘Continue’
+as there should only be one ‘Sheet 1’. Click ‘Continue’.
 
 ![](/images/adding-data/step-6.png){: .screenshot.no-float}
 
-Zapier will now test to see if it gets any data. Click ‘Fetch and continue’,
+Zapier will now test to see whether it gets any data. Click ‘Fetch and continue’,
 and you should see that the test has been successful.
 
 ![](/images/adding-data/step-7.gif){: .screenshot.no-float}
@@ -82,24 +82,24 @@ and you'll see a screen like this one pop up:
 Enter the username and password you provided when you setup Bothan, as well as
 the URL of your Bothan instance (this should be something along the lines of `http://my-awesome-bothan-instance.herokuapp.com` unless you’ve changed it).
 
-Click 'Yes, Continue', and then 'Save and Continue' once the pop up window closes
+Click 'Yes, Continue', and then 'Save and Continue' once the pop up window closes.
 
 ![](/images/adding-data/step-11.png){: .screenshot.no-float}
 
 Next we come to adding the data. In the metric name box, type the name of your
 metric. This will probably be something like ‘Widgets sold’ for our example,
-but you can use anything you fancy
+but you can use anything you like.
 
 ![](/images/adding-data/step-12.png){: .screenshot.no-float}
 
 Next, we’re going to pick the actual value for our metric. In the value box,
 click the ‘Insert a field’ button. This will bring up a list of fields from our
-spreadsheet. Choose ‘widgetsmade’ (you may need to scroll to see this)
+spreadsheet. Choose ‘widgetsmade’ (you may need to scroll to see this).
 
 ![](/images/adding-data/step-13.gif){: .screenshot.no-float}
 
 We then want to choose the date for the metric. First delete the text that says `now`, click on the
-‘Insert a field’ button, and choose ‘date’ (again, you may need to scroll to see this)
+‘Insert a field’ button, and choose ‘date’ (again, you may need to scroll to see this).
 
 ![](/images/adding-data/step-14.gif){: .screenshot.no-float}
 
